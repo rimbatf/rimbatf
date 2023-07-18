@@ -14,7 +14,7 @@ function nettv(){document.getElementById("tv").innerHTML='<iframe src="https://l
 
 function mnctv(){document.getElementById("tv").innerHTML='<iframe src="https://live.sportsnews.id/p/mnctv.html" style="border: none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;allow-forms allow-pointer-lock allow-same-origin-allow-popups-allow-scripts allow-top-navigation;" allowfullscreen="true"></iframe>';}
 
-function transtv(){document.getElementById("tv").innerHTML='<iframe src="https://live.sportsnews.id/p/transtv.html" style="border: none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;allow-forms allow-pointer-lock allow-same-origin-allow-popups-allow-scripts allow-top-navigation;" allowfullscreen="true"></iframe>';}
+function inews(){document.getElementById("tv").innerHTML='<iframe src="https://live.sportsnews.id/p/inews.html" style="border: none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;allow-forms allow-pointer-lock allow-same-origin-allow-popups-allow-scripts allow-top-navigation;" allowfullscreen="true"></iframe>';}
 
 function kompastv(){document.getElementById("tv").innerHTML='<iframe src="https://live.sportsnews.id/p/kompastv.html" style="border: none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;allow-forms allow-pointer-lock allow-same-origin-allow-popups-allow-scripts allow-top-navigation;" allowfullscreen="true"></iframe>';}
 
